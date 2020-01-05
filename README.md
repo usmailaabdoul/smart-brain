@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This is a React app which collects a picture and identifies the face using Clarifai Api its front end is built using react, tachyons, and for backend Node.js, express, Knex,  and Bcrypt for server and security where used and Postgres for the database 
 
 In the project directory, you can run:
 
